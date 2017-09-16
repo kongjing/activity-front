@@ -7,5 +7,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `npm run build ` to build the project.
 Run `node server.js ` to run universal.
 
-## Build
+## people
 lqh,kj
